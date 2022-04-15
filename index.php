@@ -1,5 +1,5 @@
 <?php
 
-$var = 'variable123';
+$var = 'variable two';
 
 echo 'Hello world!';
